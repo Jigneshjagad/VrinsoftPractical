@@ -1,5 +1,9 @@
 # VrinsoftPractical
 
-In this practical you can see Insert opration throw room database.
+This app demo i put following functionality:
 
-And Throw recycler view manage diffrent type of design in signle recyclerview for filter functionality.
+- Insert opration throw room database.
+
+- Recyclerview different view type
+
+- Different design in signle recyclerview according filter functionality.
